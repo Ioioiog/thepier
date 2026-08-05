@@ -1,0 +1,135 @@
+Section,Field,Content,Link,Status
+Navigation,Brand name,THE PIER,,
+Navigation,Brand subtitle,Beach Inn & Suites,,
+Navigation,Menu links,"About · Rooms · Gallery · Location · Reviews · Contact",,
+Navigation,CTA button text,Book now,,
+Navigation,CTA button link,,https://wa.me/599900000000,PLACEHOLDER
+Hero,Eyebrow,Boutique stay in Curaçao,,
+Hero,Title,Stay by the Caribbean. Wake up steps from the beach.,,
+Hero,Subtitle,"A relaxed boutique hotel near Mambo Beach, with comfortable rooms, warm island hospitality and the Caribbean Sea just moments away.",,
+Hero,Button 1 text,Book now,,
+Hero,Button 1 link,,https://wa.me/599900000000,PLACEHOLDER
+Hero,Button 2 text,View rooms,,
+Hero,Button 2 link,Scrolls to #rooms section,,
+About Us,Eyebrow,About us,,
+About Us,Title,Escape the ordinary,,
+About Us,Paragraph 1,"The Pier Beach Inn & Suites is a small boutique property designed for travelers who want comfort, privacy and easy access to Curaçao's best-known beaches and attractions.",,
+About Us,Paragraph 2,"Enjoy a calm atmosphere while staying close to Mambo Beach, Curaçao Sea Aquarium, restaurants and central Willemstad.",,
+About Us,Bullet 1,✓ Boutique rooms and suites,,
+About Us,Bullet 2,✓ Excellent beachside location,,
+About Us,Bullet 3,✓ Quiet and relaxing atmosphere,,
+About Us,Bullet 4,✓ Complimentary parking,,
+Rooms,Eyebrow,Our rooms,,
+Rooms,Title,Comfort meets the beach,,
+Rooms,Description,Choose a bright comfortable room or suite for your Curaçao stay.,,
+Rooms,Swipe hint (mobile),Swipe to see more rooms →,,
+Room 1,Name,Deluxe Double Room,,
+Room 1,Features,"19 m² · Max. 2 guests · 1 extra-large double bed · Garden and courtyard view · Private bathroom · Patio and terrace · Air conditioning · Minibar · Free WiFi",,
+Room 1,Price,Starting from US$85.50 / night,,
+Room 1,Button text,Book room,,
+Room 1,Button link,,https://wa.me/599900000000,PLACEHOLDER
+Room 2,Name,Deluxe Double or Twin Room,,
+Room 2,Features,"25 m² · Max. 2 guests · 1 extra-large double bed · Garden view · Private bathroom · Patio and terrace · Air conditioning · Minibar · Free WiFi",,
+Room 2,Price,Starting from US$90 / night,,
+Room 2,Button text,Book room,,
+Room 2,Button link,,https://wa.me/599900000000,PLACEHOLDER
+Room 3,Name,Deluxe Ocean View Room,,
+Room 3,Features,"25 m² · Max. 2 guests · 1 extra-large double bed · Ocean and garden view · Private bathroom · Patio and terrace · Air conditioning · Minibar · Free WiFi",,
+Room 3,Price,Starting from US$108 / night,,
+Room 3,Button text,Book room,,
+Room 3,Button link,,https://wa.me/599900000000,PLACEHOLDER
+Room 4,Name,Deluxe King Studio,,
+Room 4,Features,"29 m² · Max. 2 guests · 1 extra-large double bed · Private kitchen · Garden and courtyard view · Private bathroom · Patio and terrace · Air conditioning · Minibar · Free WiFi",,
+Room 4,Price,Starting from US$112.50 / night,,
+Room 4,Button text,Book room,,
+Room 4,Button link,,https://wa.me/599900000000,PLACEHOLDER
+Gallery,Eyebrow,Gallery,,
+Gallery,Title,A glimpse of island life,,
+Gallery,Images,6 photos from public/ folder,,
+Amenities,Eyebrow,Why stay here,,
+Amenities,Title,Everything you need,,
+Amenities,Card 1 title,Beach nearby,,
+Amenities,Card 1 description,Enjoy easy access to the Caribbean coastline.,,
+Amenities,Card 2 title,Free parking,,
+Amenities,Card 2 description,Convenient private parking for hotel guests.,,
+Amenities,Card 3 title,Fast WiFi,,
+Amenities,Card 3 description,Reliable internet throughout your stay.,,
+Amenities,Card 4 title,Prime location,,
+Amenities,Card 4 description,Close to Mambo Beach and key attractions.,,
+Location,Eyebrow,Location,,
+Location,Title,Close to everything,,
+Location,Description,Click the map to open the hotel's location in Google Maps.,,
+Location,Map link,,https://www.google.com/maps?q=12.091021853211926,-68.90441001677948,NEED CONFIRMATION
+Location,GPS coordinates,"Latitude: 12.091021853211926, Longitude: -68.90441001677948",,NEED CONFIRMATION
+Location,Destination 1,Mambo Beach — 3 min drive,,
+Location,Destination 2,Cabana Beach — 5 min drive,,
+Location,Destination 3,Curaçao Sea Aquarium — 5 min drive,,
+Location,Destination 4,Willemstad — 10 min drive,,
+Location,Destination 5,Jan Thiel Beach — 15 min drive,,
+Reviews,Eyebrow,Guest reviews,,
+Reviews,Title,Loved by travelers,,
+Reviews,Review 1,"""We loved the location. Everything was within easy reach, and the room was clean and comfortable.""",,— Sarah Canada,
+Reviews,Review 2,"""A quiet, welcoming place with everything we needed for a relaxed Curaçao vacation.""",,— Emma Netherlands,
+Reviews,Review 3,"""The perfect base for exploring the island. Close to the beach, restaurants and Willemstad.""",,— Daniel United States,SAMPLE
+Booking CTA,Title,Ready for your Caribbean escape?,,
+Booking CTA,Button text,Book your stay,,
+Booking CTA,Button link,,https://wa.me/599900000000,PLACEHOLDER
+Footer,Brand,THE PIER — Beach Inn & Suites,,
+Footer,Description,"A boutique stay close to Curaçao's Caribbean coast, Mambo Beach and central Willemstad.",,
+Footer,Email label,Email,,
+Footer,Email link,,mailto:info@example.com,PLACEHOLDER
+Footer,Phone label,Phone,,
+Footer,Phone link,,tel:+59990000000,PLACEHOLDER
+Footer,WhatsApp label,WhatsApp,,
+Footer,WhatsApp link,,https://wa.me/59990000000,PLACEHOLDER + INCONSISTENT
+Footer,Instagram label,Instagram,,
+Footer,Instagram link,,Currently points to WhatsApp,WRONG LINK
+Footer,Facebook label,Facebook,,
+Footer,Facebook link,,Currently points to WhatsApp,WRONG LINK
+Footer,Google Maps label,Google Maps,,
+Footer,Google Maps link,,Currently points to WhatsApp,WRONG LINK
+Footer,Booking.com label,Booking.com,,
+Footer,Booking.com link,,Currently points to WhatsApp,WRONG LINK
+Footer,View rooms label,View rooms,,
+Footer,View rooms link,,#rooms (scroll to section),FIXED
+Footer,Location label,Location,,
+Footer,Location link,,#location (scroll to section),FIXED
+Footer,Copyright,© 2026 The Pier Beach Inn & Suites. All rights reserved.,,
+Footer,Credit,Website designed by I.O.,,
+
+REQUIRED IMAGES,,,,,
+Image 1,Hero background photo,Main banner (top of homepage),1920x1080px landscape,,NEEDED
+Image 2,About Us photo,About Us section,1200x800px landscape,,NEEDED
+Images 3-9,Room 1 photos - Deluxe Double Room (7 photos),"Rooms section card 1 + lightbox gallery",1000x700px landscape,,NEEDED
+Images 10-16,Room 2 photos - Deluxe Double or Twin Room (7 photos),"Rooms section card 2 + lightbox gallery",1000x700px landscape,,NEEDED
+Images 17-23,Room 3 photos - Deluxe Ocean View Room (7 photos),"Rooms section card 3 + lightbox gallery",1000x700px landscape,,NEEDED
+Images 24-30,Room 4 photos - Deluxe King Studio (7 photos),"Rooms section card 4 + lightbox gallery",1000x700px landscape,,NEEDED
+Image 31,Gallery photo 1,Gallery section,900x600px landscape,,NEEDED
+Image 32,Gallery photo 2,Gallery section,900x600px landscape,,NEEDED
+Image 33,Gallery photo 3,Gallery section,900x600px landscape,,NEEDED
+Image 34,Gallery photo 4,Gallery section,900x600px landscape,,NEEDED
+Image 35,Gallery photo 5,Gallery section,900x600px landscape,,NEEDED
+Image 36,Gallery photo 6,Gallery section,900x600px landscape,,NEEDED
+Image 37,Location map screenshot,Location section background,1400x800px landscape,,NEEDED
+
+HOW TO SEND PHOTOS,,,,,
+Step 1,Go to https://wetransfer.com (free no account needed),,,,
+Step 2,Click "Send up to 2GB free",,,,
+Step 3,Click "Add your files" and select all your photos,,,,
+Step 4,Name each photo file clearly before uploading (see below),,,,
+Filename example,hero-background.jpg,,,,
+Filename example,about-us.jpg,,,,
+Filename example,room1-01.jpg through room1-07.jpg (7 photos),,,,
+Filename example,room2-01.jpg through room2-07.jpg (7 photos),,,,
+Filename example,room3-01.jpg through room3-07.jpg (7 photos),,,,
+Filename example,room4-01.jpg through room4-07.jpg (7 photos),,,,
+Filename example,gallery1.jpg through gallery6.jpg,,,,
+Filename example,location-map.jpg,,,,
+Step 5,Enter your email and recipient email (or copy download link),,,,
+Step 6,Click "Transfer" and share the download link with us,,,,
+Note,Send each photo as a SEPARATE file (not in a ZIP or folder),,,,
+Note,37 photos total - if more than 2GB split into multiple transfers (e.g. one per room type),,,,
+Note,Room photos: at least 7 per room type (bed bathroom view terrace amenities exterior detail),,,,
+Note,Photos should be high-resolution minimum 1200px wide,,,,
+Note,Format: JPG or PNG,,,,
+Note,Landscape orientation preferred,,,,
